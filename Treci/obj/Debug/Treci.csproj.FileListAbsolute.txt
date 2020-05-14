@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\LV6\Treci\bin\Debug\Treci.exe.config
+C:\Users\Korisnik\source\repos\LV6\Treci\bin\Debug\Treci.exe
+C:\Users\Korisnik\source\repos\LV6\Treci\bin\Debug\Treci.pdb
+C:\Users\Korisnik\source\repos\LV6\Treci\obj\Debug\Treci.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\LV6\Treci\obj\Debug\Treci.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\LV6\Treci\obj\Debug\Treci.exe
+C:\Users\Korisnik\source\repos\LV6\Treci\obj\Debug\Treci.pdb

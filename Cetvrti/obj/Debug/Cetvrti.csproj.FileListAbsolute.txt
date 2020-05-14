@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\LV6\Cetvrti\bin\Debug\Cetvrti.exe.config
+C:\Users\Korisnik\source\repos\LV6\Cetvrti\bin\Debug\Cetvrti.exe
+C:\Users\Korisnik\source\repos\LV6\Cetvrti\bin\Debug\Cetvrti.pdb
+C:\Users\Korisnik\source\repos\LV6\Cetvrti\obj\Debug\Cetvrti.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\LV6\Cetvrti\obj\Debug\Cetvrti.exe
+C:\Users\Korisnik\source\repos\LV6\Cetvrti\obj\Debug\Cetvrti.pdb
